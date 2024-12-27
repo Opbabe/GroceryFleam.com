@@ -1,40 +1,40 @@
-# Grocery Gander
 
-GroceryGander is a virtual representation of a farmer's market. Eliminating the question of "what are they going to sell?" by providing a list of products that vendors are selling prior to the physical arrival to the farmer's market.
+Grocery Gander
 
-## Installation
+GroceryGander is a virtual representation of a farmer’s market. It eliminates the question of “What are they going to sell?” by providing a list of products that vendors are selling before you arrive at the market.
 
-create a dynamic web project
+Installation
+	1.	Create a dynamic web project in your IDE.
+	2.	Clone this Git repository with sparse checkout enabled:
 
-Clone this git repo
-- enable sparse checkout
-
-```bash
 git init
-```
-then
-```
-```
-git clone(html method shown below)
-```
+git sparse-checkout init
 git clone https://github.com/jonathanguven/CS157A-team3.git
-```
- 
-## Running the Application
 
-- on IDE, run the project 
-- "run as"
-- "run on server"
+Running the Application
+	1.	Open the project in your IDE.
+	2.	Run the project:
+	•	Select Run As
+	•	Choose Run on Server
 
-## Members
+Features
 
-Nitisuk Tatiyasuntorn
+1. Add New Product
 
-Jimmy Vu
+Description: Manage vendor products by adding new items for sale, providing details like price and quantity.
 
-Nick Tran
+2. Grocery Product View
 
-Jonathan Nguyen
-## CS-157A-02 Introduction to Database Management System
+Description: Displays a list of all available products for the farmer’s market, complete with search and filter options.
 
-Prof. Mike Wu
+3. Product Demo Listing
+
+Description: Vendors can showcase products to attract customers and highlight special offers.
+
+4. Report Management Dashboard
+
+Description: A dashboard for vendors to view reports and manage their product sales performance.
+
+5. User Experience Dashboard
+
+Description: A comprehensive view of user activities, including browsing history, product interest, and interaction logs.
