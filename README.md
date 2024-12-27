@@ -68,17 +68,6 @@ _Description: Detailed logs of user interactions and activities._
 	•	Run As > Run on Server.
 	3.	Access the app via the local server URL.
 
-📂 Project Structure
-
-src/
-├── main/
-│   ├── java/
-│   │   ├── <backend-java-files>
-│   ├── webapp/
-│   │   ├── JSP Files
-│   │   ├── WEB-INF/
-│   │   │   ├── web.xml
-
 
 
 📜 License
