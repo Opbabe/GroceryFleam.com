@@ -62,7 +62,7 @@ _Description: Vendors can add products with details like price and quantity._
 ### Steps:
 1. Clone the repository using the command:
    ```bash
-   git clone https://github.com/jonathanguven/CS157A-team3.git
+   git clone https://github.com/Opbabe/GroceryFleam.com.git
 
 	2.	Import the project as a Dynamic Web Project in your IDE.
 	3.	Ensure the database is configured with proper credentials.
