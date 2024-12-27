@@ -1,0 +1,14 @@
+# Ignore everything
+# Ignore specific files and directories
+.DS_Store
+.classpath
+.project
+.settings/
+build/
+
+# But not these directories and files...
+!.gitignore
+!src/
+!src/**/
+
+/bin/
